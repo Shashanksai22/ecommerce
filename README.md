@@ -1,8 +1,8 @@
 # Anon - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ThsisVSS/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/ThisisVSS/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ThisisVSS/anon-ecommerce-website?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anon-ecommerce-website?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThisisVSS?style=social)](https://twitter.com/ThisisVSS)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
